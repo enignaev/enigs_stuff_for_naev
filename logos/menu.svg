@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="menu.svg">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.0132605"
+     inkscape:cx="434.32692"
+     inkscape:cy="521.58712"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1003"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2816"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:ArcadeAmerica;font-style:normal;font-weight:normal;font-size:22;-inkscape-font-specification:ArcadeAmerica;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%"><flowRegion
+         id="flowRegion2818"><rect
+           id="rect2820"
+           width="632.85712"
+           height="154.28572"
+           x="75.714287"
+           y="426.64789"
+           style="font-size:22" /></flowRegion><flowPara
+         id="flowPara2822"></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2874"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:ArcadeAmerica;font-style:normal;font-weight:normal;font-size:10px;-inkscape-font-specification:ArcadeAmerica;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%"><flowRegion
+         id="flowRegion2876"><rect
+           id="rect2878"
+           width="279.14117"
+           height="594.57068"
+           x="223.31293"
+           y="220.52151" /></flowRegion><flowPara
+         id="flowPara2880"></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2882"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#0000ff;fill-opacity:1;stroke:none;font-family:ArcadeAmerica;-inkscape-font-specification:FreeSans Bold"><flowRegion
+         id="flowRegion2884"><rect
+           id="rect2886"
+           width="230.93761"
+           height="241.79372"
+           x="240.80678"
+           y="254.93645"
+           style="font-size:24px;font-weight:bold;fill:#0000ff;-inkscape-font-specification:FreeSans Bold" /></flowRegion><flowPara
+         id="flowPara2888"
+         style="font-family:FreeSans;-inkscape-font-specification:FreeSans Bold;fill:#0000ff;font-weight:bold">start new game</flowPara><flowPara
+         style="font-family:FreeSans;-inkscape-font-specification:FreeSans Bold;fill:#0000ff;font-weight:bold"
+         id="flowPara2906" /><flowPara
+         style="font-family:FreeSans;-inkscape-font-specification:FreeSans Bold;fill:#0000ff;font-weight:bold"
+         id="flowPara2908">load game</flowPara><flowPara
+         style="font-family:FreeSans;-inkscape-font-specification:FreeSans Bold;fill:#0000ff;font-weight:bold"
+         id="flowPara2910" /><flowPara
+         style="font-family:FreeSans;-inkscape-font-specification:FreeSans Bold;fill:#0000ff;font-weight:bold"
+         id="flowPara2912">options</flowPara><flowPara
+         style="font-family:FreeSans;-inkscape-font-specification:FreeSans Bold;fill:#0000ff;font-weight:bold"
+         id="flowPara2914" /><flowPara
+         style="font-family:FreeSans;-inkscape-font-specification:FreeSans Bold;fill:#0000ff;font-weight:bold"
+         id="flowPara2916">about</flowPara><flowPara
+         style="font-family:FreeSans;-inkscape-font-specification:FreeSans Bold;fill:#0000ff;font-weight:bold"
+         id="flowPara2918" /></flowRoot>  </g>
+</svg>
